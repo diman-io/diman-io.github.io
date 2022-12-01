@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/diman_io
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://diman.io
+  * I am diman_io (https://keybase.io/diman_io) on keybase.
+  * I have a public key ASDB6uUDktpmWEouiCS5WZq7DXxUfSiXBFkWSAkujKPjAwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120c1eae50392da66584a2e8824b9599abb0d7c547d289704591648092e8ca3e3030a",
+      "host": "keybase.io",
+      "kid": "0120c1eae50392da66584a2e8824b9599abb0d7c547d289704591648092e8ca3e3030a",
+      "uid": "b30befb630a2807bf6f822a6b8326519",
+      "username": "diman_io"
+    },
+    "merkle_root": {
+      "ctime": 1611056167,
+      "hash": "2d9883d50a097e2a4d7da80e70f509cf82570e7140c1330d6694b13fe2918948bbb82cf22faf1de0f36fae489bdf1b7dd63390a6f451a96d8ca2fb956fcd1849",
+      "hash_meta": "3b81fefc08e798f6adc15b517efa11f17d139947e445bd88162ff6fe6afe6898",
+      "seqno": 18830827
+    },
+    "service": {
+      "entropy": "Y63x5mxXr4nCg52GsVpx2d4I",
+      "hostname": "diman.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1611056192,
+  "expire_in": 504576000,
+  "prev": "b13e99591e01897c5823b7c758582c972f25e1b0abfa98b14020e509a29040d8",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgwerlA5LaZlhKLogkuVmauw18VH0olwRZFkgJLoyj4wMKp3BheWxvYWTESpcCCcQgsT6ZWR4BiXxYI7fHWFgsly8l4bCr+pixQCDlCaKQQNjEINtGfOUlCqxDR1hkk+j7othas/LtN74nXZ9q/uFbMMYRAgHCo3NpZ8RAKiQoqBOzlJ2VtNTdBTwoe/V7IhXJquBgPWFl2ci4EU64i2g+2ZS4F7AFnEKoiTXJarLieTDBB4x2B14/YeLfC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMoKITUjjpBADSU9pSkES2sF0rx7lBUcjo2cMgusHxF7o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/diman_io
+
+==================================================================
